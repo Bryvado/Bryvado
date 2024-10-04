@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fixing my butchered attempts
 - 📫 How to reach me? Probably don't
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I have no idea what I'm oing
+- ⚡ Fun fact: I have no idea what I'm doing
 
 <!---
 Bryvado/Bryvado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
